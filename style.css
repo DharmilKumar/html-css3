@@ -1,0 +1,180 @@
+.card-1-img{
+    width: 10%;
+    border-radius: 50%;
+}
+
+
+.space{
+    height: 20px;
+}
+
+.card-2{
+    width: 20rem;
+}
+.card-2-girl{
+    border-radius: 50%;
+}
+.card-2-body{
+    color: rgb(141 141 167);
+}
+
+.card-3{
+    width: 50rem;
+    background-color: rgb(18, 15, 40);
+    color: white;
+}
+
+.card-3-img img{
+    width: 380px;
+    border-radius: 10px;
+}
+z{
+    border-bottom: 2px solid pink;
+}
+.card-3-text{
+    font-size: 13px;
+}
+.card-3-img-bottom1 img{
+    border-radius: 10px;
+}
+
+.card-3-img-bottom2 img{
+    border-radius: 10px;
+}
+
+.card-3-img-bottom3 img{
+    border-radius: 10px;
+}
+.card-4-img1 img{
+    width: 215px;
+    border-radius: 10px;
+}
+.card-4-icon{
+    color: pink;
+}
+.card-5-list-text{
+    font-size: 13px;
+}
+.card-5{
+    width: 40rem;
+    background-color:  rgb(18, 15, 40);
+    color: white;
+}
+
+ul.card-5-list-back li{
+    background-color:  rgb(18, 15, 40);
+    color: white;
+}
+
+.card-6-icon{
+    background-color: orangered;
+    width: 18%;
+    color: white;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 9px;
+}
+.card-6-readmore{
+    color: orangered;
+    font-size: 11px;
+}
+.card-6-lorem{
+    font-size: 13px;
+}
+.card-6-body{
+    background-color: white;
+}
+
+.card-7-flex-body{
+    background-color: white;
+}
+.card-7-flex-body1{
+    background-color: blue;
+    color: white;
+}
+
+.card-7-img img{
+    width: 600px;
+    height: 100%;
+
+}
+
+.card-7{
+    width: 65rem;
+}
+.card-7-lorem{
+    font-size: 15px;
+
+}
+
+.card-7-text{
+    font-size: 15px;
+}
+.card-7-readmore{
+    color: blue;
+}
+.card-7-check-icon{
+    color: yellow;
+}
+.card-7-readmore{
+    color: blue;
+    font-size: 14px;
+}
+
+.card-8{
+    width: 50rem;
+    background-color: black;
+    color: white;
+}
+
+.card-8-img img{
+    width: 230px;
+}
+.card-8-lorem{
+    font-size: 14px
+}
+
+ .color-text{
+    font-family: sans-serif;
+    background: linear-gradient(0.25turn, #ff58f5, #ffb1ff,#9386ff, #6337f9);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .card-9-services{
+    color: blue;
+    font-size: 14px;
+  }
+  .card-9-lorem{
+    font-size: 12px;
+
+  }
+
+  .card-9-icon-back{
+    width: 30%;
+    background-color: white;
+    border-left: 2px solid yellow;
+    
+    border-top: 2px solid yellow;
+  }
+
+  .card-9{
+    width: 60rem;
+  }
+  .card-9-body1{
+    background-color: rgb(243 244 244);
+  }
+  .card-9-readmore{
+    color: blue;
+    font-size: 11px;
+  }
+
+  .square{
+    border: 3px solid yellow;
+  }
+
+  .list-group-item{
+    border-color: white;
+  }
